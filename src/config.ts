@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://blog.halunhaku.top/", // replace this with your deployed domain
   author: "halunhaku ",
   profile: "",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "halunhaku 的个人博客 - 记录技术与生活的点滴。",
   title: "halunhaku's blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
