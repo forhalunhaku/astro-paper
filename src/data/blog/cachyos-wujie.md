@@ -15,7 +15,9 @@ timezone: Asia/Shanghai    # 可选，手动指定时区
 ogImage: ../../assets/images/cachyos-wujie-og.png
 ---
 
-首先是机械革命无界14Xpro的配置：
+![头图](../../assets/images/cachyos-wujie-og.png)
+
+首先是机械革命无界 14X Pro 的配置：
 
 - **OS**: CachyOS x86_64
 - **Kernel**: Linux 6.19.6-2-cachyos
