@@ -1,7 +1,7 @@
 ---
 author: halunhaku          # 可选，如果不填，默认会使用 astro.config.ts 中的 SITE.author
-pubDatetime: 2026-03-08T11:50:00Z  # 必填，发布时间 (使用 ISO 8601 格式，Z 代表零时区/UTC，或者带时区偏移如 +08:00)
-modDatetime: 2026-03-08T11:50:00Z  # 可选，修改时间
+pubDatetime: 2026-03-08T11:50:00+08:00  # 必填，发布时间 (使用 ISO 8601 格式，Z 代表零时区/UTC，或者带时区偏移如 +08:00)
+modDatetime: 2026-03-08T11:50:00+08:00  # 可选，修改时间
 title: 机械革命无界14Xpro CachyOS 记录          # 必填，文章标题
 featured: true           # 可选，是否在首页的 "Featured" (精选) 版块显示
 draft: false               # 可选，如果是 true，文章将不会被编译发布，只在开发模式可见
